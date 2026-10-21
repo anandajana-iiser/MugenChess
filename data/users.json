@@ -1,0 +1,32 @@
+[
+  {
+    "id": "usr_alice_test",
+    "username": "alice",
+    "displayName": "Alice Champion",
+    "avatarId": "avatar_queen",
+    "passwordHash": "eb5838aecfbdcdf69ef63e87f21352e6a98e08bba06591a38e87dd8a9834d0331d626121480392641ad2cd39618ae62f5a76242ddcb97d5e1640a18c9dd312a7",
+    "salt": "cfbf5de4cba460e0dfb033b95da44f9f",
+    "stats": {
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "totalGames": 0
+    },
+    "createdAt": 1792558889309
+  },
+  {
+    "id": "usr_bob_test",
+    "username": "bob",
+    "displayName": "Bob Tactician",
+    "avatarId": "avatar_prince",
+    "passwordHash": "fba0f851af61af988d8e5ded451c9b939f684c60c70955bceb4edffed21ccf1ee19bb036aadce76028522f3125640619548df425ef527bb4a8bb7b1430c3bcd4",
+    "salt": "e836b5473b97cc0dac7d26edc55e7ec7",
+    "stats": {
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "totalGames": 0
+    },
+    "createdAt": 1792558889317
+  }
+]
